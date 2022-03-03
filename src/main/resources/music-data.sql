@@ -1,0 +1,2 @@
+insert into music (album, artist, artist_country, release_date, song) values ('The Volatile Utopian Real Estate Market', 'Pat the Bunny', 'USA', 2014, 'From Here to Utopia');
+insert into music (album, artist, artist_country, release_date, song) values ('Volume 1', 'Amigo The Devil', 'USA', 2018, 'Hell and You');
